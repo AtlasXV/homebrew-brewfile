@@ -8,6 +8,7 @@ tap "caskroom/cask"
 ## services
 brew "redis"
 brew "mysql"
+brew "mongodb"
 
 ## utils
 brew "curl"
