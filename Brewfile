@@ -5,6 +5,9 @@ tap "homebrew/services"
 tap "caskroom/cask"
 
 # Binaries
+## developer
+brew "ansible"
+
 ## services
 brew "redis"
 brew "mysql"
@@ -12,6 +15,7 @@ brew "mongodb"
 
 ## utils
 brew "curl"
+brew "jq"
 brew "git"
 brew "tmux"
 brew "wget"
