@@ -20,6 +20,7 @@ brew "jq"
 brew "git"
 brew "tmux"
 brew "wget"
+brew "hub"
 
 ## libs
 brew "imagemagick"
