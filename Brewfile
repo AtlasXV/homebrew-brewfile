@@ -14,6 +14,7 @@ brew "mysql"
 brew "mongodb-community"
 
 ## utils
+brew "mas"
 brew "curl"
 brew "jq"
 brew "git"
