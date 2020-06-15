@@ -2,6 +2,7 @@ tap "homebrew/cask"
 tap "homebrew/core"		 
 tap "homebrew/bundle"		 
 tap "homebrew/services"
+tap "mongodb/brew"
 
 # Binaries
 ## developer
@@ -10,7 +11,7 @@ brew "ansible"
 ## services
 brew "redis"
 brew "mysql"
-brew "mongodb"
+brew "mongodb-community"
 
 ## utils
 brew "curl"
