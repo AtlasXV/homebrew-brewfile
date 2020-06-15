@@ -1,3 +1,8 @@
+tap "homebrew/cask"
+tap "homebrew/core"		 
+tap "homebrew/bundle"		 
+tap "homebrew/services"
+
 # Binaries
 ## developer
 brew "ansible"
