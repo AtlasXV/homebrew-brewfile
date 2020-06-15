@@ -2,7 +2,7 @@
 tap "homebrew/core"
 tap "homebrew/bundle"
 tap "homebrew/services"
-tap "homebrew/cask-cask"
+tap "homebrew/cask"
 
 # Binaries
 ## developer
