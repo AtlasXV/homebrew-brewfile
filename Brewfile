@@ -7,6 +7,7 @@ tap "mongodb/brew"
 # Binaries
 ## developer
 brew "ansible"
+brew "python"
 
 ## services
 brew "redis"
@@ -39,7 +40,6 @@ cask "vagrant"
 ## utils
 cask "cyberduck"
 cask "alfred"
-cask "qlcolorcode"
 cask "qlimagesize"
 cask "qlmarkdown"
 
@@ -47,3 +47,5 @@ cask "qlmarkdown"
 cask "google-chrome"
 cask "the-unarchiver"
 
+## tool
+cask "kindle"
