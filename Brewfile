@@ -8,6 +8,7 @@ tap "mongodb/brew"
 ## developer
 brew "ansible"
 brew "python"
+brew "pipenv"
 
 ## services
 brew "redis"
